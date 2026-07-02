@@ -17,13 +17,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolin3-11/carolin3-11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolin3-11/carolin3-11/output/github-contribution-grid-snake.svg">
-  <img alt="Github snake" src="https://raw.githubusercontent.com/carolin3-11/carolin3-11/output/github-contribution-grid-snake.svg">
-</picture>
-  
-</div>
+![Snake animation](https://raw.githubusercontent.com/carolin3-11/carolin3-11output/github-contribution-grid-snake.svg)
 
 
 <img width="100" height="100" src="https://img.icons8.com/plasticine/100/cinnamoroll.png" alt="cinnamoroll"/>
