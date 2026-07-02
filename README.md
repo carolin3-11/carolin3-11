@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/carolin3-11/carolin3-11output/github-contribution-grid-snake.svg)
+![Animação da Cobrinha](https://raw.githubusercontent.com/carolin3-11/carolin3-11/output/github-contribution-grid-snake.svg)
 
 
 <img width="100" height="100" src="https://img.icons8.com/plasticine/100/cinnamoroll.png" alt="cinnamoroll"/>
